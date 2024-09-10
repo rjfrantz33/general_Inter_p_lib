@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/general_inter_p_lib_test.dir/test/shared_memory_test.cpp.o CMakeFiles/general_inter_p_lib_test.dir/test/image_test.cpp.o CMakeFiles/general_inter_p_lib_test.dir/src/shared_memory.cpp.o -o general_inter_p_lib_test  lib/libgtest.a lib/libgtest_main.a libgeneral_inter_p_lib.a -lrt lib/libgtest.a 

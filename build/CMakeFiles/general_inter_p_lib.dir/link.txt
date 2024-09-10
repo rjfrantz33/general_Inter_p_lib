@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeneral_inter_p_lib.a CMakeFiles/general_inter_p_lib.dir/src/shared_memory.cpp.o
+/usr/bin/ranlib libgeneral_inter_p_lib.a
